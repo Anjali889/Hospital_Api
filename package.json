@@ -1,0 +1,20 @@
+{
+  "name": "hospitalapi",
+  "version": "1.0.0",
+  "description": "An API for the Doctors of a Hospital",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Patel",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb-connect": "^0.1.3",
+    "mongoose": "^7.2.0",
+    "passport-jwt": "^4.0.1"
+  }
+}
