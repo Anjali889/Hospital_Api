@@ -5,7 +5,7 @@ An API for the doctors of a Hospital which has been allocated by the govt for te
 ## Installation
 1. Clone this repository
 ```
-https://github.com/amanpatel23/Hospital_API__CN
+
 ```
 2. Install the dependencies
 ```
