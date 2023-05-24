@@ -46,11 +46,3 @@ GET: localhost:8000/api/v1/patients/:id/all_reports
 ```
 GET: localhost:8000/api/v1/reports/:status
 ```
-# Screenshot
-Screenshot (1).png
-Screenshot (2).png
-Screenshot (3).png
-Screenshot (4).png
-Screenshot (5)png
-Screenshot (6).png
-Screenshot (7).png
