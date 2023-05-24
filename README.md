@@ -1,4 +1,4 @@
-# Hostpital_API__CN
+# Hospital_API__CN
 An API for the doctors of a Hospital which has been allocated by the govt for testing and quarantine + well being of COVID-19 patients. There can be two types of Users,
 **Doctors** and **Patients**. Doctors can log in. Doctors can register patients in the app(using phone number). Doctors can create reports of patients.
 
